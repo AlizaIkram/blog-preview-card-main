@@ -28,12 +28,16 @@ body {
     flex-direction: column;
     background-color: white;
     padding: 20px;
-    max-width: 20%;
+    width: 100%;
+    max-width: 20rem;
     border-radius: 20px;
     border: 1px solid  var(--dark-grey);
     box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
 }
 
+.card-image {
+    width: 100%;
+}
 
 .image {
     width: 100%;
@@ -43,6 +47,7 @@ body {
 }
 
 .data-content {
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -64,6 +69,10 @@ body {
     margin-bottom: 14px;
 }
 
+.card-content {
+    width: 100%;
+}
+
 .card-content > h1 {
     font-size: 20px;
     font-weight: 800;
@@ -81,6 +90,7 @@ body {
 }
 
 .author {
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;

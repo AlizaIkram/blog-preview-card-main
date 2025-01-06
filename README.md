@@ -31,7 +31,7 @@ This project is a simple and clean with vibrant theme blog preview card that sho
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-Sk_LN9Ocx8]
 - Live Site URL: [https://clean-blog-preview-card.netlify.app/]
 
 ## My Process 

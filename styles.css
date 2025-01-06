@@ -63,6 +63,7 @@ body {
     border-radius: 4px;
 }
 
+
 .date {
     font-size: 12px;
     font-weight: 500;
@@ -79,6 +80,10 @@ body {
     margin-bottom: 14px;
 
 }
+.card-content > h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
 
 .card-content > p {
     font-size: 14px;
@@ -90,7 +95,6 @@ body {
 }
 
 .author {
-    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
